@@ -1,0 +1,14 @@
+{
+  "name": "karma-totes",
+  "version": "0.0.0",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "totes",
+    "expect"
+  ],
+  "description": "Karma plugin for totes",
+  "main": "index.js",
+  "author": "Christopher Gillis",
+  "license": "MIT"
+}
