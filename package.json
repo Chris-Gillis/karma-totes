@@ -1,21 +1,22 @@
 {
   "name": "karma-totes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "karma",
     "karma-plugin",
     "totes",
     "expect"
   ],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/z3roshot/karma-totes"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/z3roshot/karma-totes"
+  },
   "description": "Karma plugin for totes",
   "main": "index.js",
   "author": "Christopher Gillis",
   "license": "MIT",
-  "dependencies": {
-    "totes": "0.0.0"
+  "peerDependencies": {
+    "totes": "*",
+    "karma": "~0.12.16"
   }
 }
