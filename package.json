@@ -1,6 +1,6 @@
 {
   "name": "karma-totes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "karma",
     "karma-plugin",
@@ -10,5 +10,8 @@
   "description": "Karma plugin for totes",
   "main": "index.js",
   "author": "Christopher Gillis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "totes": "0.0.0"
+  }
 }
