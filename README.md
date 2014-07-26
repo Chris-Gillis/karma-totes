@@ -1,3 +1,3 @@
-# Karma plugin for totes
+# Karma plugin for [totes](github.com/z3roshot/totes)
 
-## NOTE: This currently does not work because totes doesn't yet work in the browser
+This plugin puts `totesExpect` on `window` so that in your tests you can simply use `totesExpect` as detailed on the [totes github page](github.com/z3roshot/totes).
