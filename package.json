@@ -1,6 +1,6 @@
 {
   "name": "karma-totes",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "keywords": [
     "karma",
     "karma-plugin",
@@ -15,7 +15,7 @@
   "main": "index.js",
   "author": "Christopher Gillis",
   "license": "MIT",
-  "peerDependencies": {
+  "dependencies": {
     "totes": "*",
     "karma": "~0.12.16"
   }
